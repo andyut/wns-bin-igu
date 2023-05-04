@@ -1,0 +1,34 @@
+site_name: PANDUAN IMPLEMENTASI WMS
+site_description : PT INDOGUNA UTAMA
+site_author : PT Indoguna Utama, IT Department
+copyright : "@2023 Indoguna Utama"
+output_path: /data/pdf/document.pdf
+nav: 
+    
+    - Pengenalan : 'wms01.md'
+    - Konfigurasi Sistem : 'wms02.md'
+    - Barang Masuk : 'wms03.md'
+    - Barang Keluar : 'wms04.md'
+    - Pindah Tempat : 'wms05.md'
+    - Pelaporan dan Analysis : 'wms06.md'
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+theme : 
+    name : material
+    logo : asset/logocnw1.png
+    favicon : asset/logocnw2.png
+    palette:
+        scheme: default
+        primary: deep purple    
+        accent: purple
+plugins:
+    - search    
+    - mermaid2 
+    - with-pdf
+        
+
+extra_css:
+    - css/extra.css        
