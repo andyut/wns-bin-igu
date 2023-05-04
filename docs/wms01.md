@@ -10,7 +10,7 @@ Dengan demikian, panduan ini dapat menjadi sumber daya yang sangat berguna bagi 
 
 ---
 
-**WMS**
+## WMS 
 
 Warehouse Management System (WMS) adalah sistem perangkat lunak yang digunakan untuk mengelola operasi gudang dan stok secara efektif dan efisien. WMS berfungsi sebagai pengatur dan pengawas operasi gudang, termasuk pengelolaan stok, pemilihan dan pengemasan barang, penerimaan dan pengiriman barang, dan pelacakan inventaris. Sistem ini memungkinkan pengguna untuk mengoptimalkan penggunaan ruang gudang, mengurangi biaya operasional, meningkatkan efisiensi operasional, dan mengoptimalkan kinerja gudang secara keseluruhan.
 
@@ -23,36 +23,40 @@ Dengan menggunakan WMS, pengguna dapat memperoleh manfaat seperti peningkatan ef
 
 ---
 
-**Fitur-Fitur**
+## Fitur-Fitur 
 
 _Warehouse Management System (WMS) di SAP Business One menyediakan fitur-fitur lengkap yang dapat membantu pengguna mengelola operasi gudang secara efektif dan efisien. Beberapa fitur utama dari WMS di SAP Business One adalah sebagai berikut:_
 
-```Konfigurasi lokasi gudang dan area penyimpanan```
+
+### Konfigurasi lokasi gudang dan area penyimpanan
 
 WMS di SAP Business One memungkinkan pengguna untuk menyiapkan master data untuk gudang dan lokasi penyimpanan, sehingga pengguna dapat mengelola operasi gudang dengan lebih terstruktur. Pengguna dapat memilih dari berbagai jenis lokasi seperti rak, palet, atau rak konvensional, dan dapat menentukan area penyimpanan yang sesuai untuk barang tertentu.
 
 
-```Penerimaan Barang Masuk```
+![Lokasi barang](img/wms.png)
+
+
+### Penerimaan Barang Masuk 
  
 
 WMS di SAP Business One memungkinkan pengguna untuk memproses Barang Masuk secara efisien. Pengguna dapat melakukan penerimaan barang dari pemasok dan melakukan pemeriksaan kualitas, serta pemindahan barang dari area penerimaan ke area penyimpanan yang tepat.
 
 
-```Pengambilan Barang Keluar```
+### Pengambilan Barang Keluar 
 
 WMS di SAP Business One memungkinkan pengguna untuk memproses Barang Keluar dengan efisien. Pengguna dapat mempersiapkan pesanan dan memilih barang secara otomatis, melakukan pengemasan dan pengecekan kualitas barang, serta memproses pengiriman barang dengan mudah.
 
 
-```Pindah Tempat```
+### Pindah Tempat 
 
 WMS di SAP Business One memungkinkan pengguna untuk memindahkan barang dari satu lokasi ke lokasi lain dalam gudang dengan mudah. Pengguna dapat mempersiapkan permintaan pemindahan barang dan memindahkan barang dari satu lokasi ke lokasi lain dengan mudah dan cepat.
 
 
-```Manajemen Stok```
+### Manajemen Stok 
 
 WMS di SAP Business One memungkinkan pengguna untuk mengelola stok secara efisien dan akurat. Pengguna dapat melakukan penyesuaian stok dan pembaruan data stok secara otomatis, serta mengakses data stok secara real-time.
 
-```Pelaporan dan Analisis```
+### Pelaporan dan Analisis 
 
 WMS di SAP Business One menyediakan laporan dan analisis yang terkait dengan pengelolaan gudang dan stok. Pengguna dapat melihat laporan stok dan mutasi barang, menganalisis data stok dan pengiriman barang, serta membuat laporan kinerja gudang.
 
