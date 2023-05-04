@@ -4,7 +4,6 @@ site_author : PT Indoguna Utama, IT Department
 copyright : "@2023 Indoguna Utama"
 output_path: /data/pdf/document.pdf
 nav: 
-    
     - Pengenalan : 'wms01.md'
     - Konfigurasi Sistem : 'wms02.md'
     - Barang Masuk : 'wms03.md'
@@ -32,3 +31,4 @@ plugins:
 
 extra_css:
     - css/extra.css        
+

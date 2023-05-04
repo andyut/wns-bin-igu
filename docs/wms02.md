@@ -6,6 +6,44 @@
 Konfigurasi sistem dalam Warehouse Management System (WMS) sangat penting untuk memastikan pengelolaan gudang yang efektif dan efisien. Salah satu aspek penting dari konfigurasi sistem adalah menyiapkan master data untuk gudang dan lokasi. Berikut adalah beberapa langkah yang perlu dilakukan untuk menyiapkan master data gudang dan lokasi dalam WMS:
 
 
+| Location | Location Code |
+|---|---|
+| Gudang IGU  | A |
+| Gudang IGU Cikupa | B |
+| Gudang Makasar | C |
+| Gudang Bandung | D |
+| Gudang Jogja | E |
+| Gudang Semarang | F |
+| Gudang Surabaya | G |
+| Gudang Bali | H |
+| Gudang Balikpapan | I |
+| Gudang Palembang | J |
+
+
+
+**[warehouse]**
+
+
+| Warehouse | Warehouse Code |
+|---|---|
+| Pondok Bambu Gdg Baru | A1 |
+| Pondok Bambu Gdg Lama | A2 |
+| Pondok Bambu Gdg Pork | A3 |
+| Cikupa IGU | B1 |
+| Cikupa IMS | B2 |
+| Cikupa BWN | B3 |
+| Cikupa SARKUL | B4 |
+| Gudang Makasar | C1 |
+| Gudang Bandung | D1 |
+| Gudang Jogja | E1 |
+| Gudang Semarang | F1 |
+| Gudang Surabaya | G1 |
+| Gudang Bali | H1 |
+| Gudang Balikpapan | I1 |
+| Gudang Palembang | J1 |
+
+
+
 #### Membuat Master Data untuk Gudang
 
 Langkah pertama dalam menyiapkan master data untuk gudang adalah membuat profil untuk gudang tersebut. Profil gudang akan mencakup informasi seperti nama gudang, alamat, nomor telepon, dan jenis barang yang disimpan di gudang tersebut. Dalam SAP Business One, pengguna dapat memasukkan informasi ini ke dalam modul Master Data.
