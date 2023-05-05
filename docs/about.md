@@ -10,10 +10,5 @@ We are a team of passionate people whose goal is to improve everyone's life thro
 Our products are designed for small to medium size companies willing to optimize their performance.
 
 
----
-
-![sap](asset/sap.png)
-
-![openobject](asset/openobject.png){align=right}
-
-![pandas](asset/pandas.jpeg)
+--- 
+ 

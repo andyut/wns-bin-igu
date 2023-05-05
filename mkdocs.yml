@@ -20,9 +20,7 @@ theme :
     logo : asset/logocnw1.png
     favicon : asset/logocnw2.png
     palette:
-        scheme: default
-        primary: deep purple    
-        accent: purple
+        scheme: default 
 plugins:
     - search    
     - mermaid2 
