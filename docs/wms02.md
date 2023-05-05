@@ -6,6 +6,9 @@
 Konfigurasi sistem dalam Warehouse Management System (WMS) sangat penting untuk memastikan pengelolaan gudang yang efektif dan efisien. Salah satu aspek penting dari konfigurasi sistem adalah menyiapkan master data untuk gudang dan lokasi. Berikut adalah beberapa langkah yang perlu dilakukan untuk menyiapkan master data gudang dan lokasi dalam WMS:
 
 
+**[Location]**
+
+
 | Location | Location Code |
 |---|---|
 | Gudang IGU  | A |
@@ -53,6 +56,12 @@ Langkah pertama dalam menyiapkan master data untuk gudang adalah membuat profil 
 
 Setelah membuat profil gudang, pengguna perlu menentukan lokasi penyimpanan di dalam gudang. Dalam WMS, pengguna dapat menentukan lokasi penyimpanan untuk setiap jenis barang. Misalnya, barang yang memerlukan suhu khusus akan disimpan di area khusus dengan suhu yang terkontrol. Untuk membuat lokasi penyimpanan, pengguna dapat memasukkan informasi ini ke dalam modul Master Data.
 
+
+
+![Lokasi penyimapan](img/wms04.excalidraw.png)
+
+
+
 #### Menetapkan Peraturan Penyimpanan
 
 Setelah menentukan lokasi penyimpanan, pengguna perlu menetapkan peraturan penyimpanan untuk setiap jenis barang. Peraturan penyimpanan akan mencakup informasi seperti jumlah maksimum barang yang dapat disimpan di lokasi penyimpanan tertentu, waktu maksimum yang barang dapat disimpan, dan jenis pengemasan yang harus digunakan untuk barang tertentu. Pengguna dapat memasukkan peraturan penyimpanan ini ke dalam modul konfigurasi WMS.
@@ -86,6 +95,14 @@ Dalam konfigurasi alur kerja untuk Pindah Tempat, pengguna dapat menentukan pros
 #### Integrasi dengan Sistem Lain
 
 Dalam konfigurasi alur kerja untuk Barang Masuk, Barang Keluar, dan Pindah Tempat, pengguna juga dapat menentukan integrasi dengan SAP B1 IGU, CKI, SCA dll. Integrasi dengan sistem lain dapat memungkinkan pengguna untuk memperoleh informasi yang lebih terperinci tentang inventaris dan operasi gudang secara keseluruhan.
+
+
+![pengeluaran](img/wms09.excalidraw.png)
+
+
+
+![pengeluaran](img/wms10.excalidraw.png) 
+
 
 Dengan konfigurasi alur kerja yang tepat, pengguna dapat memastikan bahwa operasi gudang berjalan dengan efisien dan efektif. Proses operasi gudang dapat dioptimalkan, sehingga pengguna dapat menghemat waktu dan biaya operasional, dan meningkatkan kepuasan pelanggan dengan mempercepat pengiriman barang.
 
