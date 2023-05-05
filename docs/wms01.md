@@ -23,6 +23,7 @@ Dengan menggunakan WMS, pengguna dapat memperoleh manfaat seperti peningkatan ef
 
 ---
 
+
 ## Fitur-Fitur 
 
 _Warehouse Management System (WMS) di SAP Business One menyediakan fitur-fitur lengkap yang dapat membantu pengguna mengelola operasi gudang secara efektif dan efisien. Beberapa fitur utama dari WMS di SAP Business One adalah sebagai berikut:_
@@ -40,6 +41,7 @@ WMS di SAP Business One memungkinkan pengguna untuk menyiapkan master data untuk
  
 
 WMS di SAP Business One memungkinkan pengguna untuk memproses Barang Masuk secara efisien. Pengguna dapat melakukan penerimaan barang dari pemasok dan melakukan pemeriksaan kualitas, serta pemindahan barang dari area penerimaan ke area penyimpanan yang tepat.
+
 
 
 ### Pengambilan Barang Keluar 
