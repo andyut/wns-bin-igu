@@ -32,6 +32,8 @@ _Warehouse Management System (WMS) di SAP Business One menyediakan fitur-fitur l
 ![Login](img/Login.png)
 
 
+
+
 ### Konfigurasi lokasi gudang dan area penyimpanan
 
 WMS di SAP Business One memungkinkan pengguna untuk menyiapkan master data untuk gudang dan lokasi penyimpanan, sehingga pengguna dapat mengelola operasi gudang dengan lebih terstruktur. Pengguna dapat memilih dari berbagai jenis lokasi seperti rak, palet, atau rak konvensional, dan dapat menentukan area penyimpanan yang sesuai untuk barang tertentu.

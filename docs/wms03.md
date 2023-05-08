@@ -53,9 +53,9 @@ Setelah barang diterima, pengguna dapat memastikan bahwa jumlah barang yang dite
 
 Setelah barang diterima, langkah selanjutnya adalah melakukan pemeriksaan kualitas untuk memastikan bahwa barang yang diterima memenuhi spesifikasi yang diinginkan. Pemeriksaan kualitas dapat mencakup beberapa hal, seperti:
 
-* ●Pengujian fisik: Pemeriksaan fisik untuk memastikan bahwa barang tidak rusak atau cacat fisik.
-* ●Pengujian fungsional: Pengujian untuk memastikan bahwa barang dapat berfungsi dengan baik sesuai dengan spesifikasi yang diinginkan.
-* ●Pengujian kualitas: Pengujian untuk memastikan bahwa barang memenuhi standar kualitas yang diinginkan.
+* Pengujian fisik: Pemeriksaan fisik untuk memastikan bahwa barang tidak rusak atau cacat fisik.
+* Pengujian fungsional: Pengujian untuk memastikan bahwa barang dapat berfungsi dengan baik sesuai dengan spesifikasi yang diinginkan.
+* Pengujian kualitas: Pengujian untuk memastikan bahwa barang memenuhi standar kualitas yang diinginkan.
 
 
 Pengguna dapat menggunakan teknologi seperti barcode untuk mengidentifikasi barang yang diterima dan melakukan pemeriksaan kualitas secara otomatis. Setelah pemeriksaan kualitas selesai, pengguna dapat memutuskan untuk menerima atau menolak barang tersebut. Jika barang tidak memenuhi spesifikasi yang diinginkan, pengguna harus segera menghubungi pemasok untuk menyelesaikan masalah tersebut.

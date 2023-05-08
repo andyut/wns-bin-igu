@@ -4,9 +4,12 @@
 
 Pelaporan dan analisis adalah langkah penting dalam Warehouse Management System (WMS) di SAP Business One. Dalam pelaporan dan analisis, pengguna dapat memeriksa laporan stok dan mutasi barang untuk memastikan bahwa informasi stok yang tersimpan di gudang selalu akurat dan terbaru. Berikut adalah penjelasan lebih lanjut tentang melihat laporan stok dan mutasi barang dalam sistem WMS di SAP Business One:
 
+
+
 ### Laporan Stok
 
 Laporan stok adalah laporan yang menunjukkan informasi tentang jumlah barang yang tersedia dalam gudang. Laporan stok ini mencakup informasi tentang stok barang di setiap lokasi gudang, seperti jumlah barang yang tersedia, jumlah barang yang dipesan, dan jumlah barang yang sedang dalam pengiriman. Dalam WMS di SAP Business One, pengguna dapat membuat laporan stok dengan menggunakan fungsi pencarian stok.
+
 
 
 ### Mutasi Barang
@@ -51,13 +54,13 @@ Dalam SAP Business One, pengguna dapat menggunakan fitur analisis stok untuk men
 Analisis pengiriman barang adalah langkah untuk menganalisis proses pengiriman barang dari gudang ke pelanggan. Analisis pengiriman barang mencakup beberapa hal, seperti:
 
 * Melihat jumlah barang yang dikirim ke pelanggan.
-* 
+  
 * Menganalisis waktu pengiriman barang.
-* 
+  
 * Menganalisis biaya pengiriman barang.
-* 
+  
 * Mengidentifikasi kesalahan pengiriman barang.
-* 
+  
 * Mengidentifikasi pelanggan yang sering memesan barang.
 
 Dalam SAP Business One, pengguna dapat menggunakan fitur analisis pengiriman barang untuk menganalisis data pengiriman barang secara mudah dan efektif. Fitur ini menyediakan grafik dan diagram yang membantu pengguna dalam memahami informasi pengiriman barang secara lebih mudah.
