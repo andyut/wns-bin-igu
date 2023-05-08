@@ -28,7 +28,7 @@ plugins:
         combined: false
         media_type: print
     - with-pdf: 
-        cover_subtitle: WMS Blue Print.
+        cover_subtitle: WMS Blue Print
         output_path: "../docs-wms.pdf"
         
 
