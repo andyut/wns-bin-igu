@@ -62,7 +62,7 @@ WMS di SAP Business One memungkinkan pengguna untuk memindahkan barang dari satu
 ### Manajemen Stok 
 
 WMS di SAP Business One memungkinkan pengguna untuk mengelola stok secara efisien dan akurat. Pengguna dapat melakukan penyesuaian stok dan pembaruan data stok secara otomatis, serta mengakses data stok secara real-time.
-
+ 
 ### Pelaporan dan Analisis 
 
 WMS di SAP Business One menyediakan laporan dan analisis yang terkait dengan pengelolaan gudang dan stok. Pengguna dapat melihat laporan stok dan mutasi barang, menganalisis data stok dan pengiriman barang, serta membuat laporan kinerja gudang.
