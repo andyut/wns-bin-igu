@@ -1,5 +1,5 @@
 #Pengenalan
--- rio
+
 
 Panduan ini bertujuan untuk memberikan pengetahuan dan pemahaman tentang penggunaan Warehouse Management System di SAP Business One dalam mengelola gudang secara efisien dan efektif. Dalam panduan ini, pembaca akan mempelajari tentang konfigurasi sistem, proses barang masuk, barang keluar, dan pindah tempat, serta pelaporan dan analisis yang terkait dengan penggunaan Warehouse Management System di SAP Business One.
 
