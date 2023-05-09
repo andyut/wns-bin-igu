@@ -46,13 +46,15 @@ Langkah pertama dalam proses Barang Masuk adalah menerima barang dari pemasok. D
 
 * **Penerimaan otomatis**: Barang diterima secara otomatis menggunakan teknologi seperti barcode. Dalam sistem WMS, pengguna dapat memindai barcode untuk mengidentifikasi barang yang diterima dan memasukkan informasi jumlah barang yang diterima.
 
-![Scaner](img/Scaner.jpeg)
+![Scaner](img/Scaner.excalidraw.png)
 
 Setelah barang diterima, pengguna dapat memastikan bahwa jumlah barang yang diterima sesuai dengan jumlah yang dipesan dalam pesanan pembelian. Jika ada ketidakcocokan antara jumlah barang yang diterima dan jumlah yang dipesan, pengguna harus segera menghubungi pemasok untuk menyelesaikan masalah tersebut.
- 
- ![Dokument](img/Barang_Masukexl.jpeg)
 
-![Dokument](img/Barang_Keluarexl.jpeg)
+![Dokument](img/excel_masuk.excalidraw.png)
+ 
+![Dokument](img/excel_keluar.excalidraw.png)
+
+
 ### Pemeriksaan Kualitas Barang
 
 Setelah barang diterima, langkah selanjutnya adalah melakukan pemeriksaan kualitas untuk memastikan bahwa barang yang diterima memenuhi spesifikasi yang diinginkan. Pemeriksaan kualitas dapat mencakup beberapa hal, seperti:

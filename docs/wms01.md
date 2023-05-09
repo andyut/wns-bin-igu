@@ -51,7 +51,7 @@ WMS di SAP Business One memungkinkan pengguna untuk menyiapkan master data untuk
 
 WMS di SAP Business One memungkinkan pengguna untuk memproses Barang Keluar dengan efisien. Pengguna dapat mempersiapkan pesanan dan memilih barang secara otomatis, melakukan pengemasan dan pengecekan kualitas barang, serta memproses pengiriman barang dengan mudah.
 
-![Barang_Keluar](img/Barang_Keluar.png)
+![Barang_Keluar](img/Barang_Keluar.excalidraw.png)
 
 
 ### Pindah Tempat 
