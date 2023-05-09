@@ -94,10 +94,9 @@ Dalam konfigurasi alur kerja untuk Pindah Tempat, pengguna dapat menentukan pros
 
 #### Integrasi dengan Sistem Lain
 
-Dalam konfigurasi alur kerja untuk Barang Masuk, Barang Keluar, dan Pindah Tempat, pengguna juga dapat menentukan integrasi dengan SAP B1 IGU, CKI, SCA dll. Integrasi dengan sistem lain dapat memungkinkan pengguna untuk memperoleh informasi yang lebih terperinci tentang inventaris dan operasi gudang secara keseluruhan.
+Dalam konfigurasi alur kerja untuk Barang Masuk, Barang Keluar, dan Pindah Tempat, pengguna juga dapat menentukan integrasi dengan SAP B1 IGU, CKI, SCA dll. Integrasi dengan sistem lain dapat memungkinkan pengguna untuk memperoleh informasi yang lebih terperinci tentang inventaris dan operasi gudang secara keseluruhan. 
 
-
-![pengeluaran](img/wms09.excalidraw.png)
+![penerimaan](img/wms09.excalidraw.png)
 
 
 
