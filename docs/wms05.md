@@ -4,7 +4,7 @@
 
  Proses Pindah Tempat adalah salah satu proses penting dalam Warehouse Management System (WMS) di SAP Business One. Proses Pindah Tempat bertujuan untuk memindahkan barang dari satu lokasi gudang ke lokasi lainnya dalam gudang yang sama. Berikut adalah langkah-langkah untuk proses Pindah Tempat dalam sistem WMS di SAP Business One:
  
-![Pindah_tempat](img/Pindah_Tempat.excalidraw.png) 
+![Pindah_tempat](img/wms05Pindah_Tempat.excalidraw.png) 
 
 
 **Membuat Permintaan Pindah Tempat**

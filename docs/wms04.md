@@ -23,7 +23,7 @@ Setelah barang dipilih, pengguna dapat mempersiapkan barang untuk pengiriman. Pe
   
 * Persiapan dokumen: Dokumen yang diperlukan untuk pengiriman, seperti faktur, surat jalan, dan dokumen pengiriman, disiapkan.
 
-![Label](img/Label.excalidraw.png) 
+![Label](img/wms04Label.excalidraw.png) 
 
 **Pengiriman Barang**
 
