@@ -4,7 +4,7 @@
 
 Proses Barang Masuk adalah salah satu proses penting dalam Warehouse Management System (WMS) di SAP Business One. Berikut adalah langkah-langkah untuk proses Barang Masuk dalam sistem WMS di SAP Business One:
 
-![Barang_Masuk](img/Barang_Masuk.png) 
+![Barang_Masuk](img/Barang_masuk.excalidraw.png) 
 
 ### Membuat Pesanan Pembelian
 
