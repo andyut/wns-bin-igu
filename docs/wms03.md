@@ -11,6 +11,7 @@ Proses Barang Masuk adalah salah satu proses penting dalam Warehouse Management 
 Langkah pertama dalam proses Barang Masuk adalah membuat pesanan pembelian. Pesanan pembelian berisi informasi tentang barang yang akan dibeli dari pemasok, termasuk jumlah barang, harga, dan waktu pengiriman. Dalam SAP Business One, pengguna dapat membuat pesanan pembelian melalui modul Pembelian.
 
 
+
 ### Penerimaan Barang
 
 Setelah pesanan pembelian dibuat, pengguna dapat menerima barang dari pemasok. Dalam SAP Business One, pengguna dapat memindai barcode atau nomor seri untuk mengidentifikasi barang yang diterima, dan mengkonfirmasi jumlah barang yang diterima.
