@@ -51,6 +51,8 @@ Konfigurasi sistem dalam Warehouse Management System (WMS) sangat penting untuk 
 
 Langkah pertama dalam menyiapkan master data untuk gudang adalah membuat profil untuk gudang tersebut. Profil gudang akan mencakup informasi seperti nama gudang, alamat, nomor telepon, dan jenis barang yang disimpan di gudang tersebut. Dalam SAP Business One, pengguna dapat memasukkan informasi ini ke dalam modul Master Data.
 
+##### Master Item
+
 
 #### lokasi Penyimpanan
 
@@ -81,6 +83,14 @@ Konfigurasi alur kerja untuk Barang Masuk, Barang Keluar, dan Pindah Tempat sang
 #### Barang Masuk
 
 Dalam konfigurasi alur kerja untuk Barang Masuk, pengguna dapat menentukan prosedur penerimaan barang dari pemasok dan pemeriksaan kualitas. Setelah penerimaan barang, pengguna dapat menentukan prosedur pemindahan barang dari area penerimaan ke area penyimpanan yang tepat. Selain itu, pengguna juga dapat menentukan prosedur untuk memperbarui data barang dan stok di sistem setelah proses Barang Masuk selesai.
+
+**[Purchase Order]**
+
+![po1](img/wms02-img-001.excalidraw.png)
+
+**[Purchase Order Additional Information]**
+
+![po2](img/wms02-img-002.excalidraw.png)
 
 
 #### Barang Keluar
