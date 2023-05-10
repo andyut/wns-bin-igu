@@ -4,7 +4,7 @@
 
 Proses Barang Masuk adalah salah satu proses penting dalam Warehouse Management System (WMS) di SAP Business One. Berikut adalah langkah-langkah untuk proses Barang Masuk dalam sistem WMS di SAP Business One:
 
-![Barang_Masuk](img/Barang_masuk.excalidraw.png) 
+![Barang_Masuk](img/wms03Barang_masuk.excalidraw.png) 
 
 ### Membuat Pesanan Pembelian
 
@@ -51,9 +51,9 @@ Langkah pertama dalam proses Barang Masuk adalah menerima barang dari pemasok. D
 
 Setelah barang diterima, pengguna dapat memastikan bahwa jumlah barang yang diterima sesuai dengan jumlah yang dipesan dalam pesanan pembelian. Jika ada ketidakcocokan antara jumlah barang yang diterima dan jumlah yang dipesan, pengguna harus segera menghubungi pemasok untuk menyelesaikan masalah tersebut.
 
-![Dokument](img/excel_masuk.excalidraw.png)
+![Dokument](img/wms03excel_masuk.excalidraw.png)
  
-![Dokument](img/excel_keluar.excalidraw.png)
+![Dokument](img/wms03excel_keluar.excalidraw.png)
 
 
 ### Pemeriksaan Kualitas Barang
