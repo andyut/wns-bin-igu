@@ -23,6 +23,7 @@ Setelah barang dipilih, pengguna dapat mempersiapkan barang untuk pengiriman. Pe
   
 * Persiapan dokumen: Dokumen yang diperlukan untuk pengiriman, seperti faktur, surat jalan, dan dokumen pengiriman, disiapkan.
 
+![Label](img/Label.excalidraw.png) 
 
 **Pengiriman Barang**
 
@@ -95,7 +96,7 @@ Pengiriman barang dan pembaruan stok di sistem adalah dua langkah penting dalam 
 Pengiriman barang adalah langkah untuk mengirimkan barang yang sudah dipilih dan dikemas ke pelanggan. Pengiriman barang mencakup beberapa hal, seperti:
 
 * Pengepakan barang: Barang dikemas dan diatur dalam kemasan yang sesuai dengan ukuran dan jenis barang yang akan dikirim.
-* 
+  
 * Labeling barang: Barang diberi label dengan informasi yang tepat, seperti nama barang, jumlah, dan nomor pesanan penjualan.
 
 * Persiapan dokumen: Dokumen yang diperlukan untuk pengiriman, seperti faktur, surat jalan, dan tag pengiriman, disiapkan.
