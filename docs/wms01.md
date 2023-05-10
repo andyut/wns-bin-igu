@@ -42,7 +42,7 @@ WMS di SAP Business One memungkinkan pengguna untuk menyiapkan master data untuk
 
 ### Penerimaan Barang Masuk 
  
-![Barang_Masuk](img/Wms01Barang_Masuk.png)
+![Barang_Masuk](img/wms01Barang_Masuk.png)
 
 
 
@@ -50,12 +50,13 @@ WMS di SAP Business One memungkinkan pengguna untuk menyiapkan master data untuk
 
 WMS di SAP Business One memungkinkan pengguna untuk memproses Barang Keluar dengan efisien. Pengguna dapat mempersiapkan pesanan dan memilih barang secara otomatis, melakukan pengemasan dan pengecekan kualitas barang, serta memproses pengiriman barang dengan mudah.
  
+ ![Barang_Masuk](img/wms01Barang_Keluar.png)
 
 ### Pindah Tempat 
 
 WMS di SAP Business One memungkinkan pengguna untuk memindahkan barang dari satu lokasi ke lokasi lain dalam gudang dengan mudah. Pengguna dapat mempersiapkan permintaan pemindahan barang dan memindahkan barang dari satu lokasi ke lokasi lain dengan mudah dan cepat.
 
-![Pindah_tempat](img/Pindah_Tempat.png)
+![Pindah_tempat](img/wms01Pindah_Tempat.png)
 
 
 ### Manajemen Stok 
