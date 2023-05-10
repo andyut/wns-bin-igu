@@ -10,7 +10,18 @@ Pelaporan dan analisis adalah langkah penting dalam Warehouse Management System 
 
 Laporan stok adalah laporan yang menunjukkan informasi tentang jumlah barang yang tersedia dalam gudang. Laporan stok ini mencakup informasi tentang stok barang di setiap lokasi gudang, seperti jumlah barang yang tersedia, jumlah barang yang dipesan, dan jumlah barang yang sedang dalam pengiriman. Dalam WMS di SAP Business One, pengguna dapat membuat laporan stok dengan menggunakan fungsi pencarian stok.
 
+#### SAP B1
 
+**[Onhand Per Current Date]**
+
+![item list](img/wms06-img-001.excalidraw.png)
+
+
+**[Onhand Per  Date]**
+
+
+![item list](img/wms06-img-002.excalidraw.png)
+#### CNW 
 
 ### Mutasi Barang
 
