@@ -60,6 +60,8 @@ Setelah membuat profil gudang, pengguna perlu menentukan lokasi penyimpanan di d
 
 ![Lokasi penyimapan](img/wms04.excalidraw.png)
 
+**Bin Location** 
+
 
 
 #### Menetapkan Peraturan Penyimpanan
@@ -137,6 +139,12 @@ Setelah membuat profil barang, pengguna dapat menambahkan informasi data rumah p
 #### Menetapkan Peraturan Penyimpanan 
 
 Setelah menambahkan informasi data rumah potong (est) dan tanggal produksi, pengguna dapat menetapkan peraturan penyimpanan untuk setiap jenis barang berdasarkan informasi tersebut. Peraturan penyimpanan akan mencakup informasi seperti jumlah maksimum barang yang dapat disimpan di lokasi penyimpanan tertentu, waktu maksimum yang barang dapat disimpan, dan jenis pengemasan yang harus digunakan untuk barang tertentu.
+
+
+**[Batch Detail]**
+
+![Batch Barang2](img/wms02-img-006.excalidraw.png) 
+
 
 #### Memasukkan Data ke Dalam Sistem
 
