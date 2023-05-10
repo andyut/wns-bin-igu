@@ -45,13 +45,11 @@ Konfigurasi sistem dalam Warehouse Management System (WMS) sangat penting untuk 
 | Gudang Balikpapan | I1 |
 | Gudang Palembang | J1 |
 
-
+Untuk barang yang akan di kelola melalui ```Batch``` 
 
 #### Membuat Master Data untuk Gudang
 
 Langkah pertama dalam menyiapkan master data untuk gudang adalah membuat profil untuk gudang tersebut. Profil gudang akan mencakup informasi seperti nama gudang, alamat, nomor telepon, dan jenis barang yang disimpan di gudang tersebut. Dalam SAP Business One, pengguna dapat memasukkan informasi ini ke dalam modul Master Data.
-
-##### Master Item
 
 
 #### lokasi Penyimpanan
@@ -61,6 +59,8 @@ Setelah membuat profil gudang, pengguna perlu menentukan lokasi penyimpanan di d
 
 
 ![Lokasi penyimapan](img/wms04.excalidraw.png)
+
+**Bin Location** 
 
 
 
@@ -84,14 +84,6 @@ Konfigurasi alur kerja untuk Barang Masuk, Barang Keluar, dan Pindah Tempat sang
 
 Dalam konfigurasi alur kerja untuk Barang Masuk, pengguna dapat menentukan prosedur penerimaan barang dari pemasok dan pemeriksaan kualitas. Setelah penerimaan barang, pengguna dapat menentukan prosedur pemindahan barang dari area penerimaan ke area penyimpanan yang tepat. Selain itu, pengguna juga dapat menentukan prosedur untuk memperbarui data barang dan stok di sistem setelah proses Barang Masuk selesai.
 
-**[Purchase Order]**
-
-![po1](img/wms02-img-001.excalidraw.png)
-
-**[Purchase Order Additional Information]**
-
-![po2](img/wms02-img-002.excalidraw.png)
-
 
 #### Barang Keluar
 
@@ -104,9 +96,10 @@ Dalam konfigurasi alur kerja untuk Pindah Tempat, pengguna dapat menentukan pros
 
 #### Integrasi dengan Sistem Lain
 
-Dalam konfigurasi alur kerja untuk Barang Masuk, Barang Keluar, dan Pindah Tempat, pengguna juga dapat menentukan integrasi dengan SAP B1 IGU, CKI, SCA dll. Integrasi dengan sistem lain dapat memungkinkan pengguna untuk memperoleh informasi yang lebih terperinci tentang inventaris dan operasi gudang secara keseluruhan. 
+Dalam konfigurasi alur kerja untuk Barang Masuk, Barang Keluar, dan Pindah Tempat, pengguna juga dapat menentukan integrasi dengan SAP B1 IGU, CKI, SCA dll. Integrasi dengan sistem lain dapat memungkinkan pengguna untuk memperoleh informasi yang lebih terperinci tentang inventaris dan operasi gudang secara keseluruhan.
 
-![penerimaan](img/wms09.excalidraw.png)
+
+![pengeluaran](img/wms09.excalidraw.png)
 
 
 
@@ -125,13 +118,33 @@ Menyiapkan data rumah potong (est) dan tanggal produksi untuk barang yang disimp
 Langkah pertama dalam menyiapkan data rumah potong (est) dan tanggal produksi adalah membuat profil untuk setiap jenis barang yang disimpan di gudang. Profil barang akan mencakup informasi seperti nama barang, kode barang, dan deskripsi barang.
 
 
+![Profil Barang](img/wms02-img-003.excalidraw.png) 
+
+
+
 #### Menambahkan Data Rumah Potong (est) dan Tanggal Produksi
 
 Setelah membuat profil barang, pengguna dapat menambahkan informasi data rumah potong (est) dan tanggal produksi untuk setiap jenis barang. Data rumah potong (est) adalah informasi tentang tempat di mana barang diambil atau dipotong dari sumbernya, seperti peternakan atau perkebunan. Tanggal produksi adalah tanggal ketika barang diproduksi. Informasi ini akan membantu pengguna dalam pengaturan stok berdasarkan umur dan kualitas barang.
 
+
+![Purchase Barang](img/wms02-img-004.excalidraw.png) 
+
+
+
+
+![Purchase Barang2](img/wms02-img-005.excalidraw.png) 
+
+
+
 #### Menetapkan Peraturan Penyimpanan 
 
 Setelah menambahkan informasi data rumah potong (est) dan tanggal produksi, pengguna dapat menetapkan peraturan penyimpanan untuk setiap jenis barang berdasarkan informasi tersebut. Peraturan penyimpanan akan mencakup informasi seperti jumlah maksimum barang yang dapat disimpan di lokasi penyimpanan tertentu, waktu maksimum yang barang dapat disimpan, dan jenis pengemasan yang harus digunakan untuk barang tertentu.
+
+
+**[Batch Detail]**
+
+![Batch Barang2](img/wms02-img-006.excalidraw.png) 
+
 
 #### Memasukkan Data ke Dalam Sistem
 
