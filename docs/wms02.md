@@ -6,6 +6,20 @@
 Konfigurasi sistem dalam Warehouse Management System (WMS) sangat penting untuk memastikan pengelolaan gudang yang efektif dan efisien. Salah satu aspek penting dari konfigurasi sistem adalah menyiapkan master data untuk gudang dan lokasi. Berikut adalah beberapa langkah yang perlu dilakukan untuk menyiapkan master data gudang dan lokasi dalam WMS:
 
 
+
+### Membuat Master Data untuk Gudang
+
+Langkah pertama dalam menyiapkan master data untuk gudang adalah membuat profil untuk gudang tersebut. Profil gudang akan mencakup informasi seperti nama gudang, alamat, nomor telepon, dan jenis barang yang disimpan di gudang tersebut. Dalam SAP Business One, pengguna dapat memasukkan informasi ini ke dalam modul Master Data.
+
+
+### lokasi Penyimpanan
+
+Setelah membuat profil gudang, pengguna perlu menentukan lokasi penyimpanan di dalam gudang. Dalam WMS, pengguna dapat menentukan lokasi penyimpanan untuk setiap jenis barang. Misalnya, barang yang memerlukan suhu khusus akan disimpan di area khusus dengan suhu yang terkontrol. Untuk membuat lokasi penyimpanan, pengguna dapat memasukkan informasi ini ke dalam modul Master Data.
+
+
+![Lokasi penyimapan](img/wms04.excalidraw.png)
+
+
 **[Location]**
 
 
@@ -47,50 +61,37 @@ Konfigurasi sistem dalam Warehouse Management System (WMS) sangat penting untuk 
 
 Untuk barang yang akan di kelola melalui ```Batch``` 
 
-#### Membuat Master Data untuk Gudang
-
-Langkah pertama dalam menyiapkan master data untuk gudang adalah membuat profil untuk gudang tersebut. Profil gudang akan mencakup informasi seperti nama gudang, alamat, nomor telepon, dan jenis barang yang disimpan di gudang tersebut. Dalam SAP Business One, pengguna dapat memasukkan informasi ini ke dalam modul Master Data.
-
-
-#### lokasi Penyimpanan
-
-Setelah membuat profil gudang, pengguna perlu menentukan lokasi penyimpanan di dalam gudang. Dalam WMS, pengguna dapat menentukan lokasi penyimpanan untuk setiap jenis barang. Misalnya, barang yang memerlukan suhu khusus akan disimpan di area khusus dengan suhu yang terkontrol. Untuk membuat lokasi penyimpanan, pengguna dapat memasukkan informasi ini ke dalam modul Master Data.
-
-
-
-![Lokasi penyimapan](img/wms04.excalidraw.png)
-
 **Bin Location** 
 
 
 
-#### Menetapkan Peraturan Penyimpanan
+### Menetapkan Peraturan Penyimpanan
 
 Setelah menentukan lokasi penyimpanan, pengguna perlu menetapkan peraturan penyimpanan untuk setiap jenis barang. Peraturan penyimpanan akan mencakup informasi seperti jumlah maksimum barang yang dapat disimpan di lokasi penyimpanan tertentu, waktu maksimum yang barang dapat disimpan, dan jenis pengemasan yang harus digunakan untuk barang tertentu. Pengguna dapat memasukkan peraturan penyimpanan ini ke dalam modul konfigurasi WMS.
 
-#### Membuat Stok Awal 
+### Membuat Stok Awal 
 
 Setelah menyiapkan master data untuk gudang dan lokasi, pengguna perlu membuat stok awal untuk setiap jenis barang. Stok awal akan mencakup informasi tentang jumlah barang yang tersedia di gudang pada saat peluncuran sistem WMS. Pengguna dapat memasukkan informasi ini ke dalam modul konfigurasi WMS.
 
 Dengan menyiapkan master data gudang dan lokasi dengan benar, pengguna dapat memaksimalkan penggunaan WMS dalam pengelolaan stok dan operasi gudang. Pengguna dapat memastikan bahwa stok terorganisir dengan baik dan dapat diakses dengan mudah, dan dapat mengurangi kesalahan yang terjadi dalam pengelolaan gudang.
 
 
-### Konfigurasi  Alur Kerja
+## Konfigurasi  Alur Kerja
 
 Konfigurasi alur kerja untuk Barang Masuk, Barang Keluar, dan Pindah Tempat sangat penting dalam Warehouse Management System (WMS). Dengan menentukan alur kerja yang tepat, pengguna dapat memastikan bahwa proses operasi gudang berjalan lancar dan efisien. Berikut adalah beberapa langkah yang dapat dilakukan dalam konfigurasi alur kerja untuk Barang Masuk, Barang Keluar, dan Pindah Tempat di WMS:
 
 
-#### Barang Masuk
+### Barang Masuk
 
 Dalam konfigurasi alur kerja untuk Barang Masuk, pengguna dapat menentukan prosedur penerimaan barang dari pemasok dan pemeriksaan kualitas. Setelah penerimaan barang, pengguna dapat menentukan prosedur pemindahan barang dari area penerimaan ke area penyimpanan yang tepat. Selain itu, pengguna juga dapat menentukan prosedur untuk memperbarui data barang dan stok di sistem setelah proses Barang Masuk selesai.
 
 
-#### Barang Keluar
+### Barang Keluar
 
 Dalam konfigurasi alur kerja untuk Barang Keluar, pengguna dapat menentukan prosedur untuk mempersiapkan pesanan dan memilih barang secara otomatis. Selanjutnya, pengguna dapat menentukan prosedur untuk melakukan pengemasan dan pengecekan kualitas barang sebelum barang dikirimkan ke pelanggan. Setelah proses pengiriman barang selesai, pengguna dapat menentukan prosedur untuk memperbarui data stok di sistem.
 
 
-#### Pindah Tempat
+### Pindah Tempat
 
 Dalam konfigurasi alur kerja untuk Pindah Tempat, pengguna dapat menentukan prosedur permintaan pemindahan barang. Selanjutnya, pengguna dapat menentukan prosedur pemindahan barang dari satu lokasi ke lokasi lain dalam gudang, dan menentukan prosedur untuk memperbarui data stok di sistem setelah pemindahan selesai.
 

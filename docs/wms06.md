@@ -21,11 +21,37 @@ Laporan stok adalah laporan yang menunjukkan informasi tentang jumlah barang yan
 
 
 ![item list](img/wms06-img-002.excalidraw.png)
+
+
 #### CNW 
+
+
+![item list](img/wms06-img-003.excalidraw.png)
+
+!!! info
+    A. Laporan persediaan barang Per Tanggal
+    B. Laporan Persediaan Barang 
+    C. Daily Report
+    D. Kartu Stock
 
 ### Mutasi Barang
 
 Mutasi barang adalah pergerakan barang yang terjadi dalam gudang, termasuk barang yang masuk, keluar, atau dipindahkan ke lokasi lain. Laporan mutasi barang menunjukkan informasi tentang jumlah barang yang masuk ke gudang, jumlah barang yang keluar dari gudang, dan jumlah barang yang dipindahkan ke lokasi lain. Dalam SAP Business One, pengguna dapat membuat laporan mutasi barang dengan menggunakan fungsi pencarian mutasi barang.
+
+#### SAP B1
+
+**[Inventory Audit Report]**
+
+
+
+![item list](img/wms06-img-002.excalidraw.png)
+
+
+#### CNW
+
+**[CNW-Kartu Stock]**
+
+![item list](img/wms06-img-005.excalidraw.png)
 
 ### Analisis Laporan
 
