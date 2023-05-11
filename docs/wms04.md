@@ -7,6 +7,7 @@ Proses Barang Keluar adalah salah satu proses penting dalam Warehouse Management
 
 Langkah pertama dalam proses Barang Keluar adalah membuat pesanan penjualan. Pesanan penjualan berisi informasi tentang barang yang akan dijual kepada pelanggan, termasuk jumlah barang, harga, dan waktu pengiriman. Dalam SAP Business One, pengguna dapat membuat pesanan penjualan melalui modul Penjualan.
 
+![Sales_order](img/wms04Sales_order.excalidraw.png) 
 
 **Pemilihan Barang**
 
