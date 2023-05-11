@@ -10,11 +10,48 @@ Pelaporan dan analisis adalah langkah penting dalam Warehouse Management System 
 
 Laporan stok adalah laporan yang menunjukkan informasi tentang jumlah barang yang tersedia dalam gudang. Laporan stok ini mencakup informasi tentang stok barang di setiap lokasi gudang, seperti jumlah barang yang tersedia, jumlah barang yang dipesan, dan jumlah barang yang sedang dalam pengiriman. Dalam WMS di SAP Business One, pengguna dapat membuat laporan stok dengan menggunakan fungsi pencarian stok.
 
+#### SAP B1
 
+**[Onhand Per  Date]**
+
+![item list](img/wms06-img-001.excalidraw.png)
+
+
+**[Onhand Per  Date]**
+
+
+![item list](img/wms06-img-002.excalidraw.png)
+
+
+#### CNW 
+
+
+![item list](img/wms06-img-003.excalidraw.png)
+
+!!! info
+    A. Laporan persediaan barang Per Tanggal
+    B. Laporan Persediaan Barang 
+    C. Daily Report
+    D. Kartu Stock
 
 ### Mutasi Barang
 
 Mutasi barang adalah pergerakan barang yang terjadi dalam gudang, termasuk barang yang masuk, keluar, atau dipindahkan ke lokasi lain. Laporan mutasi barang menunjukkan informasi tentang jumlah barang yang masuk ke gudang, jumlah barang yang keluar dari gudang, dan jumlah barang yang dipindahkan ke lokasi lain. Dalam SAP Business One, pengguna dapat membuat laporan mutasi barang dengan menggunakan fungsi pencarian mutasi barang.
+
+#### SAP B1
+
+**[Inventory Audit Report]**
+
+
+
+![item list](img/wms06-img-002.excalidraw.png)
+
+
+#### CNW
+
+**[CNW-Kartu Stock]**
+
+![item list](img/wms06-img-005.excalidraw.png)
 
 ### Analisis Laporan
 
@@ -36,7 +73,7 @@ Menganalisis data stok dan pengiriman barang adalah salah satu hal yang penting 
 Analisis data stok adalah langkah untuk menganalisis informasi stok yang tersimpan di gudang. Analisis data stok mencakup beberapa hal, seperti:
 
 
-* Melihat jumlah stok yang tersedia dan jumlah stok yang dipesan.
+* Melihat jumlah stok yang tersedia dan jumlah stok yang dipesan .
   
 * Menganalisis perubahan stok dari waktu ke waktu.
   
