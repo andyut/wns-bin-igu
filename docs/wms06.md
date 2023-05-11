@@ -12,7 +12,7 @@ Laporan stok adalah laporan yang menunjukkan informasi tentang jumlah barang yan
 
 #### SAP B1
 
-**[Onhand Per Current Date]**
+**[Onhand Per  Date]**
 
 ![item list](img/wms06-img-001.excalidraw.png)
 
