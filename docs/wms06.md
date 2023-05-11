@@ -73,7 +73,7 @@ Menganalisis data stok dan pengiriman barang adalah salah satu hal yang penting 
 Analisis data stok adalah langkah untuk menganalisis informasi stok yang tersimpan di gudang. Analisis data stok mencakup beberapa hal, seperti:
 
 
-* Melihat jumlah stok yang tersedia dan jumlah stok yang dipesan.
+* Melihat jumlah stok yang tersedia dan jumlah stok yang dipesan .
   
 * Menganalisis perubahan stok dari waktu ke waktu.
   
