@@ -71,7 +71,9 @@ plugins:
     - with-pdf: 
         cover_subtitle: Indoguna Group Documentation
         output_path: "../docs-wms.pdf"
-        
+    - pandoc:
+        enabled_if_env: ENABLE_PANDOC_EXPORT
+        combile: true
 
 extra_css:
     - css/extra.css        
