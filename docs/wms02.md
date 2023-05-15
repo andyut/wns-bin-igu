@@ -69,6 +69,26 @@ Untuk barang yang akan di kelola melalui ```Batch```
 
 Setelah menentukan lokasi penyimpanan, pengguna perlu menetapkan peraturan penyimpanan untuk setiap jenis barang. Peraturan penyimpanan akan mencakup informasi seperti jumlah maksimum barang yang dapat disimpan di lokasi penyimpanan tertentu, waktu maksimum yang barang dapat disimpan, dan jenis pengemasan yang harus digunakan untuk barang tertentu. Pengguna dapat memasukkan peraturan penyimpanan ini ke dalam modul konfigurasi WMS.
 
+#### Konfigurasi Warehouse B1
+
+Aktifkan ```Bin Location``` di SAP B1. di menu setup - > inventory
+
+
+![binlocationactive](img/wms02-img-007.excalidraw.png)
+
+#### Konfigurasi Bin Location B1
+
+Kofigurasi dimensi bin-location yang akan dibangun.
+
+
+![binlocationactive2](img/wms02-img-008.excalidraw.png)
+
+Tentukan jumlah warehouse, jumlah rack, jumlah, row, dan bin  yang akan di kelola oleh SAP B1, dan tentukan dimensi detail yang di perlukan. ( Max 5 deep )
+
+
+![binlocationactive3](img/wms02-img-009.excalidraw.png) 
+
+
 ### Membuat Stok Awal 
 
 Setelah menyiapkan master data untuk gudang dan lokasi, pengguna perlu membuat stok awal untuk setiap jenis barang. Stok awal akan mencakup informasi tentang jumlah barang yang tersedia di gudang pada saat peluncuran sistem WMS. Pengguna dapat memasukkan informasi ini ke dalam modul konfigurasi WMS.
