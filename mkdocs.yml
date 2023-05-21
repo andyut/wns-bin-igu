@@ -5,8 +5,7 @@ site_description: >-
   Panduan implementasi warehouse management sistem dengan bin-location dan batch
 copyright : "Copyright &copy; @2023 IT Indoguna Utama"
 
-# Copyright 
-output_path:  wms-indoguna.pdf
+# Copyright  
 nav: 
     - Pengenalan : 'wms01.md'
     - Konfigurasi Sistem : 'wms02.md'
@@ -70,10 +69,7 @@ plugins:
         media_type: print
     - with-pdf: 
         cover_subtitle: Indoguna Group Documentation
-        output_path: "../docs-wms.pdf"
-    - pandoc:
-        enabled_if_env: ENABLE_PANDOC_EXPORT
-        combile: true
+     
 
 extra_css:
     - css/extra.css        
